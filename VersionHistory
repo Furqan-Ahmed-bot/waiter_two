@@ -1,0 +1,2 @@
+Version:    1.0.1               Date:   2022-07-01
+    1. Bug      :   User can change its mobile location using Mock Location and application will get the location as the user sets it.
